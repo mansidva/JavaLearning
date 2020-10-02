@@ -1,0 +1,118 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 9,
+        "name": "Login with incorrect username and correct password",
+        "description": "",
+        "id": "free-crm-application-testing;login-with-incorrect-username-and-correct-password",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "This is a invalid login test",
+            "match": {},
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "line": 8,
+            "name": "@RegressionTest"
+          }
+        ]
+      },
+      {
+        "line": 21,
+        "name": "Create a tasks",
+        "description": "",
+        "id": "free-crm-application-testing;create-a-tasks",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 22,
+            "name": "This is a tasks test case",
+            "match": {},
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "line": 20,
+            "name": "@RegressionTest"
+          }
+        ]
+      },
+      {
+        "line": 65,
+        "name": "validate a report",
+        "description": "",
+        "id": "free-crm-application-testing;validate-a-report",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 66,
+            "name": "This is a report test",
+            "match": {},
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "line": 64,
+            "name": "@End2End"
+          }
+        ]
+      },
+      {
+        "line": 69,
+        "name": "Application Logout",
+        "description": "",
+        "id": "free-crm-application-testing;application-logout",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 70,
+            "name": "This is a logout test",
+            "match": {},
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "line": 68,
+            "name": "@End2End"
+          }
+        ]
+      }
+    ],
+    "name": "Free CRM application testing",
+    "description": "",
+    "id": "free-crm-application-testing",
+    "keyword": "Feature",
+    "uri": "E:/Eclipse/Selenium/FreeCrmBDDFramework/src/features/tagging.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@FunctionalTest"
+      }
+    ]
+  }
+]

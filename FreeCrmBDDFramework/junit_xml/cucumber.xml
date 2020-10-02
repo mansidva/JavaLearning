@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="4" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="4" time="0">
+<testcase classname="Free CRM application testing" name="Login with incorrect username and correct password" time="0">
+<failure message="The scenario has pending or undefined step(s)"><![CDATA[Given This is a invalid login test..........................................undefined
+]]></failure>
+</testcase>
+<testcase classname="Free CRM application testing" name="Create a tasks" time="0">
+<failure message="The scenario has pending or undefined step(s)"><![CDATA[Given This is a tasks test case.............................................undefined
+]]></failure>
+</testcase>
+<testcase classname="Free CRM application testing" name="validate a report" time="0">
+<failure message="The scenario has pending or undefined step(s)"><![CDATA[Given This is a report test.................................................undefined
+]]></failure>
+</testcase>
+<testcase classname="Free CRM application testing" name="Application Logout" time="0">
+<failure message="The scenario has pending or undefined step(s)"><![CDATA[Given This is a logout test.................................................undefined
+]]></failure>
+</testcase>
+</testsuite>
